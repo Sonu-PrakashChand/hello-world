@@ -1,1 +1,3 @@
-This is a new file.. Use this for writing queries
+This is a new file.. Use this for writing queries <<LIMS Queries>>
+
+Select * from LIMS_USERS
