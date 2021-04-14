@@ -1,3 +1,5 @@
 This is a new file.. Use this for writing queries <<LIMS Queries>>
 
+Test modified
+
 Select * from LIMS_USERS
